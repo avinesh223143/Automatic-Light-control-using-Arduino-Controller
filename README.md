@@ -17,6 +17,7 @@ Step4:Go to file and select save option to save the program </br>
 Step5:Go to sketch and select verify or compile options </br>
 Step6:If no error Hex file will be generated in the temporary folder </br>
 
+
 ### Proteus
 Step7:Open the Proteus software </br>
 Step8:Go to file select new design and click ok button </br>
@@ -90,7 +91,7 @@ delay(1000);
 ```
 
 ## CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-10-13 at 15 20 08_fe58db7f](https://github.com/user-attachments/assets/5c9da265-014b-40b2-9585-56f4e21df5c4)
+![497765685-4a65dc2a-909d-4106-9c13-58547a2af90b](https://github.com/user-attachments/assets/ce1aa97c-2416-483d-bc3c-d55c1288d61e)
 
 ## OUTPUT:
 ![WhatsApp Image 2025-10-13 at 15 20 53_f58835bd](https://github.com/user-attachments/assets/e958845a-f3e1-4753-8b35-217ba7a85c47)
